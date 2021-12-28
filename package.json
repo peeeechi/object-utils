@@ -1,6 +1,6 @@
 {
   "name": "nested_objects_expander",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert nested objects to 2D objects",
   "main": "./dist/index.js",
   "scripts": {
